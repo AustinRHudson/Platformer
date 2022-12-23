@@ -29,4 +29,14 @@ public class RoomTransition : MonoBehaviour
             //background.SetActive(false);
         }
     }
+
+    private void pause()
+    {
+        Time.timeScale = 0f;
+    }
+
+    private void unPause()
+    {
+        Time.timeScale = 1f;
+    }
 }
