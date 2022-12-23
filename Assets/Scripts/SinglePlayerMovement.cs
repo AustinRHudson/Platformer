@@ -29,7 +29,7 @@ public class SinglePlayerMovement : MonoBehaviour
     public float terminalVelocity;
     public float centerMaxX;
     public float centerMaxY;
-    public float teleportDistance = 50f;
+    public float teleportDistance;
     private float diagonalTeleportDistance;
     public float teleportCooldown;
     public float teleportCooldownTimer;
@@ -56,7 +56,7 @@ public class SinglePlayerMovement : MonoBehaviour
     public void init()
     {
         diagonalTeleportDistance = (float)Math.Sqrt((Math.Pow(teleportDistance, 2.0)) / 2.0);
-        teleportCooldownTimer = 2f;
+        teleportCooldownTimer = .1f;
         teleportCooldown = 1f;
         teleportPause = .1f;
         speed = 10f;
