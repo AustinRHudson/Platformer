@@ -1,0 +1,1189 @@
+fileFormatVersion: 2
+guid: a1893c3eb89aac14f891bcd2265f6061
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3872858910824078551
+    second: Player_Map_Sheet_0
+  - first:
+      213: 1672000843656840653
+    second: Player_Map_Sheet_1
+  - first:
+      213: 3539891994272149012
+    second: Player_Map_Sheet_2
+  - first:
+      213: 8583915826946354984
+    second: Player_Map_Sheet_3
+  - first:
+      213: 487706445669575500
+    second: Player_Map_Sheet_4
+  - first:
+      213: -3212586259982223860
+    second: Player_Map_Sheet_5
+  - first:
+      213: -6299864335157787027
+    second: Player_Map_Sheet_6
+  - first:
+      213: -5328623875486400841
+    second: Player_Map_Sheet_7
+  - first:
+      213: -1786876343621508846
+    second: Player_Map_Sheet_8
+  - first:
+      213: 5121348788158450854
+    second: Player_Map_Sheet_9
+  - first:
+      213: -5849503251713352296
+    second: Player_Map_Sheet_10
+  - first:
+      213: 7911497155995277750
+    second: Player_Map_Sheet_11
+  - first:
+      213: -4538984261641973279
+    second: Player_Map_Sheet_12
+  - first:
+      213: 6809660706592529191
+    second: Player_Map_Sheet_13
+  - first:
+      213: 481135790123782051
+    second: Player_Map_Sheet_14
+  - first:
+      213: -3705870119298086183
+    second: Player_Map_Sheet_15
+  - first:
+      213: 2479514583876458063
+    second: Player_Map_Sheet_16
+  - first:
+      213: 5451047647084906903
+    second: Player_Map_Sheet_17
+  - first:
+      213: 1500925731573111463
+    second: Player_Map_Sheet_18
+  - first:
+      213: -3569755259884823668
+    second: Player_Map_Sheet_19
+  - first:
+      213: -5800139439035082585
+    second: Player_Map_Sheet_20
+  - first:
+      213: -7724813933976884158
+    second: Player_Map_Sheet_21
+  - first:
+      213: -94583705306999949
+    second: Player_Map_Sheet_22
+  - first:
+      213: -5469100276833232841
+    second: Player_Map_Sheet_23
+  - first:
+      213: 6964087895770658096
+    second: Player_Map_Sheet_24
+  - first:
+      213: 4063010755085111468
+    second: Player_Map_Sheet_25
+  - first:
+      213: -1394024677138201905
+    second: Player_Map_Sheet_26
+  - first:
+      213: 3367351749803166135
+    second: Player_Map_Sheet_0
+  - first:
+      213: -8200857798225449243
+    second: Player_Map_Sheet_1
+  - first:
+      213: 2202786584634641865
+    second: Player_Map_Sheet_2
+  - first:
+      213: -8920712473322216069
+    second: Player_Map_Sheet_3
+  - first:
+      213: 3901905745314214250
+    second: Player_Map_Sheet_4
+  - first:
+      213: -4054566070452031878
+    second: Player_Map_Sheet_5
+  - first:
+      213: 3151624120676501279
+    second: Player_Map_Sheet_6
+  - first:
+      213: 1383747307123172580
+    second: Player_Map_Sheet_7
+  - first:
+      213: 9034542279116868839
+    second: Player_Map_Sheet_8
+  - first:
+      213: -6014471972698121611
+    second: Player_Map_Sheet_9
+  - first:
+      213: -8404590469234627341
+    second: Player_Map_Sheet_10
+  - first:
+      213: -3832490703948083547
+    second: Player_Map_Sheet_11
+  - first:
+      213: -1915872333495742541
+    second: Player_Map_Sheet_12
+  - first:
+      213: 6396933600956336209
+    second: Player_Map_Sheet_13
+  - first:
+      213: 9199920323152790870
+    second: Player_Map_Sheet_14
+  - first:
+      213: -4476278533183118968
+    second: Player_Map_Sheet_15
+  - first:
+      213: -5848458846602136788
+    second: Player_Map_Sheet_16
+  - first:
+      213: 5438995690848083245
+    second: Player_Map_Sheet_17
+  - first:
+      213: -1260786397804178431
+    second: Player_Map_Sheet_18
+  - first:
+      213: -7197946435906143256
+    second: Player_Map_Sheet_19
+  - first:
+      213: -8839400522124459012
+    second: Player_Map_Sheet_20
+  - first:
+      213: -5923395496133161123
+    second: Player_Map_Sheet_21
+  - first:
+      213: 8464007714607884187
+    second: Player_Map_Sheet_22
+  - first:
+      213: -6463190546156702795
+    second: Player_Map_Sheet_23
+  - first:
+      213: 7288684936871770208
+    second: Player_Map_Sheet_24
+  - first:
+      213: 6789341369234798831
+    second: Player_Map_Sheet_25
+  - first:
+      213: -3421558055359070252
+    second: Player_Map_Sheet_26
+  - first:
+      213: 6353152560168375332
+    second: Player_Map_Sheet_27
+  - first:
+      213: -7548728861734388500
+    second: Player_Map_Sheet_28
+  - first:
+      213: 4616658311411570593
+    second: Player_Map_Sheet_29
+  - first:
+      213: 6279105154837453031
+    second: Player_Map_Sheet_30
+  - first:
+      213: 1010662708722215473
+    second: Player_Map_Sheet_31
+  - first:
+      213: -8934632853080938370
+    second: Player_Map_Sheet_32
+  - first:
+      213: 4026949570298660475
+    second: Player_Map_Sheet_33
+  - first:
+      213: 5540196755323548594
+    second: Player_Map_Sheet_27
+  - first:
+      213: -7269578279371687790
+    second: Player_Map_Sheet_28
+  - first:
+      213: 8805861226669668174
+    second: Player_Map_Sheet_29
+  - first:
+      213: 4838792226638972828
+    second: Player_Map_Sheet_30
+  - first:
+      213: -901161396470325588
+    second: Player_Map_Sheet_31
+  - first:
+      213: -7441505906850308790
+    second: Player_Map_Sheet_32
+  - first:
+      213: 5574025929851166971
+    second: Player_Map_Sheet_33
+  - first:
+      213: 3435140109922469356
+    second: Player_Map_Sheet_34
+  - first:
+      213: 153637202544148761
+    second: Player_Map_Sheet_35
+  - first:
+      213: 2405724844242372248
+    second: Player_Map_Sheet_36
+  - first:
+      213: 7232279830400866446
+    second: Player_Map_Sheet_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Map_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9cec0539c3bbe20800000000000000
+      internalID: 3872858910824078551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea7435843b03e80800000000000000
+      internalID: 1672000843656840653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdc4255abed19e10800000000000000
+      internalID: 3539891994272149012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ab3cf443433480800000000000000
+      internalID: 8583915826946354984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6172882a9a562630800000000000000
+      internalID: 487706445669575500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eea5414a94bb7c0800000000000000
+      internalID: -3212586259982223860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17c9729071dcbb20800000000000000
+      internalID: -6299864335157787027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4eafb28de043310800000000000000
+      internalID: -5328623875486400841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4207f554216d70800000000000000
+      internalID: -1786876343621508846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a19cb5b9d488ca0800000000000000
+      internalID: 5121348788158450854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce2a66f75ec5b80800000000000000
+      internalID: -5849503251713352296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae003a920240dac0800000000000000
+      internalID: 7911497155995277750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfccfe63447965e0800000000000000
+      internalID: -4538984261641973279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15843c8b73976c850800000000000000
+      internalID: 6809660706592529191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6554b676aceacaf70800000000000000
+      internalID: 481135790123782051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e9e1f36011e1c0800000000000000
+      internalID: -3705870119298086183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f9cc5aa916dea0800000000000000
+      internalID: 2479514583876458063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d51e783c13b7b40800000000000000
+      internalID: 5451047647084906903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104dc3d7379c08ee0800000000000000
+      internalID: 1500925731573111463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb76875ad1cb1c90800000000000000
+      internalID: -3569755259884823668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38e5bee04245580800000000000000
+      internalID: -5800139439035082585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f85d40e2fdbcda0800000000000000
+      internalID: -7724813933976884158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b976e551c22367570800000000000000
+      internalID: -94583705306999949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3baa411722e46a0800000000000000
+      internalID: -5469100276833232841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0687bfd355c962560800000000000000
+      internalID: 6964087895770658096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8ba1cf006983e50800000000000000
+      internalID: 4063010755085111468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df32fba31f2480d0800000000000000
+      internalID: -1394024677138201905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3f4d2889bb2ec40800000000000000
+      internalID: 6353152560168375332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298b72f12154d1b90800000000000000
+      internalID: -7548728861734388500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47f7055124b43a70800000000000000
+      internalID: 4616658311411570593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97ccb2a4e7d62340800000000000000
+      internalID: 6279105154837453031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae57160c7e6e73f0800000000000000
+      internalID: 1010662708722215473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d5734fdc57ab890800000000000000
+      internalID: -8934632853080938370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0689dfc0bea5d40800000000000000
+      internalID: 4026949570298660475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce500a5dab11caf20800000000000000
+      internalID: 3435140109922469356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911cde1c834d12200800000000000000
+      internalID: 153637202544148761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960660fff9d26120800000000000000
+      internalID: 2405724844242372248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Map_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88144fff283e5460800000000000000
+      internalID: 7232279830400866446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: f7ea71b6556487f4d8f16233944a2455, type: 3}
+      name: _Emission
+    nameFileIdTable:
+      Player_Map_Sheet_32: -8934632853080938370
+      Player_Map_Sheet_8: -1786876343621508846
+      Player_Map_Sheet_37: 7232279830400866446
+      Player_Map_Sheet_11: 7911497155995277750
+      Player_Map_Sheet_26: -1394024677138201905
+      Player_Map_Sheet_19: -3569755259884823668
+      Player_Map_Sheet_13: 6809660706592529191
+      Player_Map_Sheet_20: -5800139439035082585
+      Player_Map_Sheet_33: 4026949570298660475
+      Player_Map_Sheet_16: 2479514583876458063
+      Player_Map_Sheet_10: -5849503251713352296
+      Player_Map_Sheet_12: -4538984261641973279
+      Player_Map_Sheet_25: 4063010755085111468
+      Player_Map_Sheet_17: 5451047647084906903
+      Player_Map_Sheet_22: -94583705306999949
+      Player_Map_Sheet_18: 1500925731573111463
+      Player_Map_Sheet_24: 6964087895770658096
+      Player_Map_Sheet_31: 1010662708722215473
+      Player_Map_Sheet_35: 153637202544148761
+      Player_Map_Sheet_6: -6299864335157787027
+      Player_Map_Sheet_3: 8583915826946354984
+      Player_Map_Sheet_29: 4616658311411570593
+      Player_Map_Sheet_28: -7548728861734388500
+      Player_Map_Sheet_34: 3435140109922469356
+      Player_Map_Sheet_4: 487706445669575500
+      Player_Map_Sheet_15: -3705870119298086183
+      Player_Map_Sheet_23: -5469100276833232841
+      Player_Map_Sheet_7: -5328623875486400841
+      Player_Map_Sheet_9: 5121348788158450854
+      Player_Map_Sheet_27: 6353152560168375332
+      Player_Map_Sheet_14: 481135790123782051
+      Player_Map_Sheet_5: -3212586259982223860
+      Player_Map_Sheet_21: -7724813933976884158
+      Player_Map_Sheet_0: 3872858910824078551
+      Player_Map_Sheet_30: 6279105154837453031
+      Player_Map_Sheet_36: 2405724844242372248
+      Player_Map_Sheet_1: 1672000843656840653
+      Player_Map_Sheet_2: 3539891994272149012
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
