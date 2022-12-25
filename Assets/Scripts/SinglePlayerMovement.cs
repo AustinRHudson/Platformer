@@ -43,6 +43,7 @@ public class SinglePlayerMovement : MonoBehaviour
     [SerializeField] private GravityController gravController = null;
     private Rigidbody2D rb = null;
     public Animator anim = null;
+    public BoxCollider2D respawnPoint = null;
 
 
     //objects
@@ -237,7 +238,7 @@ public class SinglePlayerMovement : MonoBehaviour
         {
             onTerminalVelocity.Invoke();
         }
-        if (rb.velocity.y == terminalVelocity)
+        else if (rb.velocity.y == terminalVelocity)
         {
             onTerminalVelocity.Invoke();
         }
@@ -465,8 +466,11 @@ public class SinglePlayerMovement : MonoBehaviour
         //Debug.Log("TerminalVelocity");
     }
 
-
-
-
-
+    public IEnumerator death()
+    {
+        disableMovement();
+        yield return new WaitForSeconds(1f);
+        tf.position = respawnPoint.transform.position;
+        enableMovement();
+    }
 }
