@@ -64,7 +64,7 @@ public class SinglePlayerMovement : MonoBehaviour
         fallMultiplier = 3f;
         lowJumpMultiplier = 6f;
         slideSpeed = 5;
-        jumpForce = 650f;
+        jumpForce = 950f;
         terminalVelocity = 25f;
         isTeleporting = false;
         movementEnabled = true;
@@ -469,6 +469,7 @@ public class SinglePlayerMovement : MonoBehaviour
     public IEnumerator death()
     {
         disableMovement();
+        rb.velocity = Vector3.zero;
         yield return new WaitForSeconds(1f);
         tf.position = respawnPoint.transform.position;
         enableMovement();

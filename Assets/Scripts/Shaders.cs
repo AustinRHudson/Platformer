@@ -8,7 +8,7 @@ public class Shaders : MonoBehaviour
 
     bool isDissolving = false;
     bool isFabricating = false;
-    bool isBlinking = false;
+    //bool isBlinking = false;
     bool onBlink = true;
     float blinkLight = 0f;
     float fade = 1f;
