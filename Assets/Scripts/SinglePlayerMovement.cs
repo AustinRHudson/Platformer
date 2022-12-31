@@ -71,6 +71,7 @@ public class SinglePlayerMovement : MonoBehaviour
         isTeleporting = false;
         movementEnabled = true;
         circle.transform.localScale = new Vector3(teleportDistance/3.5f, teleportDistance/3.5f);
+        circle.transform.position = transform.position;
 
 }
     void Start()

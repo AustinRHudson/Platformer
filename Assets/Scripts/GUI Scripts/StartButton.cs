@@ -6,7 +6,6 @@ public class StartButton : MonoBehaviour
 {
     public void startGame()
     {
-        print("here");
         SceneManager.LoadScene("Level1");
     }
 }
