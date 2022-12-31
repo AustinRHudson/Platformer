@@ -271,11 +271,14 @@ public class SinglePlayerMovement : MonoBehaviour
                     {
                         collision.center = new Vector2(centerMaxX - i, centerMaxY);
                         collision.teleportable = false;
-                        if (!Physics2D.OverlapBox(collision.center, collision.playerSize, collision.rotation, collision.nonTeleportableObjects))
-                        {
-                            collision.teleportable = true;
-                            break;
-                        }
+                        //if (!Physics2D.OverlapBox(collision.center, collision.playerSize, collision.rotation, collision.nonTeleportableObjects))
+                        //{
+                            if (!Physics2D.OverlapBox(collision.center, collision.playerSize * new Vector2(2f, collision.playerSize.y), collision.rotation, collision.nonTeleportableBlocks))
+                            {
+                                collision.teleportable = true;
+                                break;
+                            }
+                        //}
                     }
                     break;
                 case 2:
@@ -329,8 +332,12 @@ public class SinglePlayerMovement : MonoBehaviour
                         collision.teleportable = false;
                         if (!Physics2D.OverlapBox(collision.center, collision.playerSize, collision.rotation, collision.nonTeleportableObjects))
                         {
-                            collision.teleportable = true;
-                            break;
+                           // if (!Physics2D.OverlapBox(centerCollisionAverage(), (collision.playerSize * new Vector2(Math.Abs(centerMaxX - transform.position.x) - 3f, collision.playerSize.y)), collision.rotation, collision.nonTeleportableBlocks))
+                           // {
+                                collision.teleportable = true;
+                                break;
+                            //}
+
                         }
                     }
                     break;
@@ -473,5 +480,10 @@ public class SinglePlayerMovement : MonoBehaviour
         yield return new WaitForSeconds(1f);
         tf.position = respawnPoint.transform.position;
         enableMovement();
+    }
+
+    public Vector2 centerCollisionAverage()
+    {
+        return (collision.center + new Vector2(transform.position.x, transform.position.y)) / 2.0f;
     }
 }
