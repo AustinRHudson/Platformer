@@ -15,7 +15,6 @@ public class AttachGameObjectsToParticles : MonoBehaviour
     {
         m_ParticleSystem = GetComponent<ParticleSystem>();
         m_Particles = new ParticleSystem.Particle[m_ParticleSystem.main.maxParticles];
-        Debug.Log("Start");
     }
 
     // Update is called once per frame

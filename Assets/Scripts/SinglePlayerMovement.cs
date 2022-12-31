@@ -44,6 +44,7 @@ public class SinglePlayerMovement : MonoBehaviour
     private Rigidbody2D rb = null;
     public Animator anim = null;
     public BoxCollider2D respawnPoint = null;
+    public SpriteRenderer circle = null;
 
 
     //objects
@@ -56,6 +57,7 @@ public class SinglePlayerMovement : MonoBehaviour
     //start
     public void init()
     {
+        teleportDistance = 6.25f;
         diagonalTeleportDistance = (float)Math.Sqrt((Math.Pow(teleportDistance, 2.0)) / 2.0);
         teleportCooldownTimer = .1f;
         teleportCooldown = 1f;
@@ -68,6 +70,7 @@ public class SinglePlayerMovement : MonoBehaviour
         terminalVelocity = 25f;
         isTeleporting = false;
         movementEnabled = true;
+        circle.transform.localScale = new Vector3(teleportDistance/3.5f, teleportDistance/3.5f);
 
 }
     void Start()
