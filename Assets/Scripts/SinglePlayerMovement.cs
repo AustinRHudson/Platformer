@@ -44,6 +44,7 @@ public class SinglePlayerMovement : MonoBehaviour
     private Rigidbody2D rb = null;
     public Animator anim = null;
     public BoxCollider2D respawnPoint = null;
+    public SpriteRenderer circle = null;
 
 
     //objects
@@ -56,6 +57,7 @@ public class SinglePlayerMovement : MonoBehaviour
     //start
     public void init()
     {
+        teleportDistance = 6.25f;
         diagonalTeleportDistance = (float)Math.Sqrt((Math.Pow(teleportDistance, 2.0)) / 2.0);
         teleportCooldownTimer = .1f;
         teleportCooldown = 1f;
@@ -64,10 +66,12 @@ public class SinglePlayerMovement : MonoBehaviour
         fallMultiplier = 3f;
         lowJumpMultiplier = 6f;
         slideSpeed = 5;
-        jumpForce = 650f;
+        jumpForce = 950f;
         terminalVelocity = 25f;
         isTeleporting = false;
         movementEnabled = true;
+        circle.transform.localScale = new Vector3(teleportDistance/3.5f, teleportDistance/3.5f);
+        circle.transform.position = transform.position;
 
 }
     void Start()
@@ -271,11 +275,14 @@ public class SinglePlayerMovement : MonoBehaviour
                     {
                         collision.center = new Vector2(centerMaxX - i, centerMaxY);
                         collision.teleportable = false;
-                        if (!Physics2D.OverlapBox(collision.center, collision.playerSize, collision.rotation, collision.nonTeleportableObjects))
-                        {
-                            collision.teleportable = true;
-                            break;
-                        }
+                        //if (!Physics2D.OverlapBox(collision.center, collision.playerSize, collision.rotation, collision.nonTeleportableObjects))
+                        //{
+                            if (!Physics2D.OverlapBox(collision.center, collision.playerSize * new Vector2(2f, collision.playerSize.y), collision.rotation, collision.nonTeleportableBlocks))
+                            {
+                                collision.teleportable = true;
+                                break;
+                            }
+                        //}
                     }
                     break;
                 case 2:
@@ -329,8 +336,12 @@ public class SinglePlayerMovement : MonoBehaviour
                         collision.teleportable = false;
                         if (!Physics2D.OverlapBox(collision.center, collision.playerSize, collision.rotation, collision.nonTeleportableObjects))
                         {
-                            collision.teleportable = true;
-                            break;
+                           // if (!Physics2D.OverlapBox(centerCollisionAverage(), (collision.playerSize * new Vector2(Math.Abs(centerMaxX - transform.position.x) - 3f, collision.playerSize.y)), collision.rotation, collision.nonTeleportableBlocks))
+                           // {
+                                collision.teleportable = true;
+                                break;
+                            //}
+
                         }
                     }
                     break;
@@ -469,8 +480,14 @@ public class SinglePlayerMovement : MonoBehaviour
     public IEnumerator death()
     {
         disableMovement();
+        rb.velocity = Vector3.zero;
         yield return new WaitForSeconds(1f);
         tf.position = respawnPoint.transform.position;
         enableMovement();
+    }
+
+    public Vector2 centerCollisionAverage()
+    {
+        return (collision.center + new Vector2(transform.position.x, transform.position.y)) / 2.0f;
     }
 }
