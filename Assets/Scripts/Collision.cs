@@ -8,6 +8,7 @@ public class Collision : MonoBehaviour
 {
     public LayerMask groundLayer;
     public LayerMask nonTeleportableObjects;
+    public LayerMask nonTeleportableBlocks;
     public bool teleportable;
     public bool isGrounded;
     public bool wasGrounded;

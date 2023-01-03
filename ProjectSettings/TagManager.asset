@@ -16,8 +16,8 @@ TagManager:
   - Player
   - InteractiveObjects
   - RoomTransition
-  - 
-  - 
+  - NormalTiles
+  - NonTeleportableTiles
   - 
   - 
   - 
