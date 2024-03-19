@@ -101,6 +101,7 @@ public class GravityController : MonoBehaviour
             deltaGravity = 4;
             isSwitchingNeg = true;
             tf.localScale = new Vector3(tf.localScale.x, -7, tf.localScale.z);
+            SPM.canTeleport = true;
             //Debug.Log("Gravity Down");
         }
         else if (rb.gravityScale < 0)
