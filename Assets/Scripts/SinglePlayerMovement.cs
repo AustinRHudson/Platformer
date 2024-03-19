@@ -482,6 +482,11 @@ public class SinglePlayerMovement : MonoBehaviour
         disableMovement();
         rb.velocity = Vector3.zero;
         yield return new WaitForSeconds(1f);
+        if (rb.gravityScale < 0)
+        {
+            Debug.Log("gravity flipped");
+            gravController.flipGravity();
+        }
         tf.position = respawnPoint.transform.position;
         enableMovement();
     }
